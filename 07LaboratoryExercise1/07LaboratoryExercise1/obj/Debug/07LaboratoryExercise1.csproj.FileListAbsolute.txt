@@ -1,0 +1,66 @@
+C:\Users\tomin\source\repos\07LaboratoryExercise1\07LaboratoryExercise1\bin\Debug\07LaboratoryExercise1.exe.config
+C:\Users\tomin\source\repos\07LaboratoryExercise1\07LaboratoryExercise1\bin\Debug\07LaboratoryExercise1.exe
+C:\Users\tomin\source\repos\07LaboratoryExercise1\07LaboratoryExercise1\bin\Debug\07LaboratoryExercise1.pdb
+C:\Users\tomin\source\repos\07LaboratoryExercise1\07LaboratoryExercise1\obj\Debug\07LaboratoryExercise1.csproj.AssemblyReference.cache
+C:\Users\tomin\source\repos\07LaboratoryExercise1\07LaboratoryExercise1\obj\Debug\07LaboratoryExercise1.csproj.SuggestedBindingRedirects.cache
+C:\Users\tomin\source\repos\07LaboratoryExercise1\07LaboratoryExercise1\obj\Debug\_07LaboratoryExercise1.Properties.Resources.resources
+C:\Users\tomin\source\repos\07LaboratoryExercise1\07LaboratoryExercise1\obj\Debug\07LaboratoryExercise1.csproj.GenerateResource.cache
+C:\Users\tomin\source\repos\07LaboratoryExercise1\07LaboratoryExercise1\obj\Debug\07LaboratoryExercise1.csproj.CoreCompileInputs.cache
+C:\Users\tomin\source\repos\07LaboratoryExercise1\07LaboratoryExercise1\obj\Debug\07LaboratoryExercise1.exe
+C:\Users\tomin\source\repos\07LaboratoryExercise1\07LaboratoryExercise1\obj\Debug\07LaboratoryExercise1.pdb
+C:\Users\tomin\source\repos\07LaboratoryExercise1\07LaboratoryExercise1\obj\Debug\_07LaboratoryExercise1.frmClubRegistration.resources
+C:\Users\terencio.268853\Downloads\JUSTINE-main\JUSTINE-main\07LaboratoryExercise1\07LaboratoryExercise1\bin\Debug\ClubDB.mdf
+C:\Users\terencio.268853\Downloads\JUSTINE-main\JUSTINE-main\07LaboratoryExercise1\07LaboratoryExercise1\bin\Debug\ClubDB_log.ldf
+C:\Users\terencio.268853\Downloads\JUSTINE-main\JUSTINE-main\07LaboratoryExercise1\07LaboratoryExercise1\bin\Debug\07LaboratoryExercise1.exe.config
+C:\Users\terencio.268853\Downloads\JUSTINE-main\JUSTINE-main\07LaboratoryExercise1\07LaboratoryExercise1\bin\Debug\07LaboratoryExercise1.exe
+C:\Users\terencio.268853\Downloads\JUSTINE-main\JUSTINE-main\07LaboratoryExercise1\07LaboratoryExercise1\bin\Debug\07LaboratoryExercise1.pdb
+C:\Users\terencio.268853\Downloads\JUSTINE-main\JUSTINE-main\07LaboratoryExercise1\07LaboratoryExercise1\obj\Debug\07LaboratoryExercise1.csproj.AssemblyReference.cache
+C:\Users\terencio.268853\Downloads\JUSTINE-main\JUSTINE-main\07LaboratoryExercise1\07LaboratoryExercise1\obj\Debug\07LaboratoryExercise1.csproj.SuggestedBindingRedirects.cache
+C:\Users\terencio.268853\Downloads\JUSTINE-main\JUSTINE-main\07LaboratoryExercise1\07LaboratoryExercise1\obj\Debug\_07LaboratoryExercise1.frmClubRegistration.resources
+C:\Users\terencio.268853\Downloads\JUSTINE-main\JUSTINE-main\07LaboratoryExercise1\07LaboratoryExercise1\obj\Debug\_07LaboratoryExercise1.frmUpdateMember.resources
+C:\Users\terencio.268853\Downloads\JUSTINE-main\JUSTINE-main\07LaboratoryExercise1\07LaboratoryExercise1\obj\Debug\_07LaboratoryExercise1.Properties.Resources.resources
+C:\Users\terencio.268853\Downloads\JUSTINE-main\JUSTINE-main\07LaboratoryExercise1\07LaboratoryExercise1\obj\Debug\07LaboratoryExercise1.csproj.GenerateResource.cache
+C:\Users\terencio.268853\Downloads\JUSTINE-main\JUSTINE-main\07LaboratoryExercise1\07LaboratoryExercise1\obj\Debug\07LaboratoryExercise1.csproj.CoreCompileInputs.cache
+C:\Users\terencio.268853\Downloads\JUSTINE-main\JUSTINE-main\07LaboratoryExercise1\07LaboratoryExercise1\obj\Debug\07LaboratoryExercise1.exe
+C:\Users\terencio.268853\Downloads\JUSTINE-main\JUSTINE-main\07LaboratoryExercise1\07LaboratoryExercise1\obj\Debug\07LaboratoryExercise1.pdb
+C:\Users\deane\Downloads\Compressed\fgsfdsd-main\fgsfdsd-main\JUSTINE-main\07LaboratoryExercise1\07LaboratoryExercise1\bin\Debug\ClubDB.mdf
+C:\Users\deane\Downloads\Compressed\fgsfdsd-main\fgsfdsd-main\JUSTINE-main\07LaboratoryExercise1\07LaboratoryExercise1\bin\Debug\ClubDB_log.ldf
+C:\Users\deane\Downloads\Compressed\fgsfdsd-main\fgsfdsd-main\JUSTINE-main\07LaboratoryExercise1\07LaboratoryExercise1\bin\Debug\07LaboratoryExercise1.exe.config
+C:\Users\deane\Downloads\Compressed\fgsfdsd-main\fgsfdsd-main\JUSTINE-main\07LaboratoryExercise1\07LaboratoryExercise1\bin\Debug\07LaboratoryExercise1.exe
+C:\Users\deane\Downloads\Compressed\fgsfdsd-main\fgsfdsd-main\JUSTINE-main\07LaboratoryExercise1\07LaboratoryExercise1\bin\Debug\07LaboratoryExercise1.pdb
+C:\Users\deane\Downloads\Compressed\fgsfdsd-main\fgsfdsd-main\JUSTINE-main\07LaboratoryExercise1\07LaboratoryExercise1\obj\Debug\07LaboratoryExercise1.csproj.AssemblyReference.cache
+C:\Users\deane\Downloads\Compressed\fgsfdsd-main\fgsfdsd-main\JUSTINE-main\07LaboratoryExercise1\07LaboratoryExercise1\obj\Debug\_07LaboratoryExercise1.frmClubRegistration.resources
+C:\Users\deane\Downloads\Compressed\fgsfdsd-main\fgsfdsd-main\JUSTINE-main\07LaboratoryExercise1\07LaboratoryExercise1\obj\Debug\_07LaboratoryExercise1.frmUpdateMember.resources
+C:\Users\deane\Downloads\Compressed\fgsfdsd-main\fgsfdsd-main\JUSTINE-main\07LaboratoryExercise1\07LaboratoryExercise1\obj\Debug\_07LaboratoryExercise1.Properties.Resources.resources
+C:\Users\deane\Downloads\Compressed\fgsfdsd-main\fgsfdsd-main\JUSTINE-main\07LaboratoryExercise1\07LaboratoryExercise1\obj\Debug\07LaboratoryExercise1.csproj.GenerateResource.cache
+C:\Users\deane\Downloads\Compressed\fgsfdsd-main\fgsfdsd-main\JUSTINE-main\07LaboratoryExercise1\07LaboratoryExercise1\obj\Debug\07LaboratoryExercise1.csproj.CoreCompileInputs.cache
+C:\Users\deane\Downloads\Compressed\fgsfdsd-main\fgsfdsd-main\JUSTINE-main\07LaboratoryExercise1\07LaboratoryExercise1\obj\Debug\07LaboratoryExercise1.exe
+C:\Users\deane\Downloads\Compressed\fgsfdsd-main\fgsfdsd-main\JUSTINE-main\07LaboratoryExercise1\07LaboratoryExercise1\obj\Debug\07LaboratoryExercise1.pdb
+D:\ICONS\Filemail.com files 12.12.2023 dbzmchrezeenoqq\fgsfdsd-main\fgsfdsd-main\JUSTINE-main\07LaboratoryExercise1\07LaboratoryExercise1\bin\Debug\ClubDB.mdf
+D:\ICONS\Filemail.com files 12.12.2023 dbzmchrezeenoqq\fgsfdsd-main\fgsfdsd-main\JUSTINE-main\07LaboratoryExercise1\07LaboratoryExercise1\bin\Debug\ClubDB_log.ldf
+D:\ICONS\Filemail.com files 12.12.2023 dbzmchrezeenoqq\fgsfdsd-main\fgsfdsd-main\JUSTINE-main\07LaboratoryExercise1\07LaboratoryExercise1\bin\Debug\07LaboratoryExercise1.exe.config
+D:\ICONS\Filemail.com files 12.12.2023 dbzmchrezeenoqq\fgsfdsd-main\fgsfdsd-main\JUSTINE-main\07LaboratoryExercise1\07LaboratoryExercise1\bin\Debug\07LaboratoryExercise1.exe
+D:\ICONS\Filemail.com files 12.12.2023 dbzmchrezeenoqq\fgsfdsd-main\fgsfdsd-main\JUSTINE-main\07LaboratoryExercise1\07LaboratoryExercise1\bin\Debug\07LaboratoryExercise1.pdb
+D:\ICONS\Filemail.com files 12.12.2023 dbzmchrezeenoqq\fgsfdsd-main\fgsfdsd-main\JUSTINE-main\07LaboratoryExercise1\07LaboratoryExercise1\obj\Debug\07LaboratoryExercise1.csproj.AssemblyReference.cache
+D:\ICONS\Filemail.com files 12.12.2023 dbzmchrezeenoqq\fgsfdsd-main\fgsfdsd-main\JUSTINE-main\07LaboratoryExercise1\07LaboratoryExercise1\obj\Debug\07LaboratoryExercise1.csproj.SuggestedBindingRedirects.cache
+D:\ICONS\Filemail.com files 12.12.2023 dbzmchrezeenoqq\fgsfdsd-main\fgsfdsd-main\JUSTINE-main\07LaboratoryExercise1\07LaboratoryExercise1\obj\Debug\_07LaboratoryExercise1.frmClubRegistration.resources
+D:\ICONS\Filemail.com files 12.12.2023 dbzmchrezeenoqq\fgsfdsd-main\fgsfdsd-main\JUSTINE-main\07LaboratoryExercise1\07LaboratoryExercise1\obj\Debug\_07LaboratoryExercise1.frmUpdateMember.resources
+D:\ICONS\Filemail.com files 12.12.2023 dbzmchrezeenoqq\fgsfdsd-main\fgsfdsd-main\JUSTINE-main\07LaboratoryExercise1\07LaboratoryExercise1\obj\Debug\_07LaboratoryExercise1.Properties.Resources.resources
+D:\ICONS\Filemail.com files 12.12.2023 dbzmchrezeenoqq\fgsfdsd-main\fgsfdsd-main\JUSTINE-main\07LaboratoryExercise1\07LaboratoryExercise1\obj\Debug\07LaboratoryExercise1.csproj.GenerateResource.cache
+D:\ICONS\Filemail.com files 12.12.2023 dbzmchrezeenoqq\fgsfdsd-main\fgsfdsd-main\JUSTINE-main\07LaboratoryExercise1\07LaboratoryExercise1\obj\Debug\07LaboratoryExercise1.csproj.CoreCompileInputs.cache
+D:\ICONS\Filemail.com files 12.12.2023 dbzmchrezeenoqq\fgsfdsd-main\fgsfdsd-main\JUSTINE-main\07LaboratoryExercise1\07LaboratoryExercise1\obj\Debug\07LaboratoryExercise1.exe
+D:\ICONS\Filemail.com files 12.12.2023 dbzmchrezeenoqq\fgsfdsd-main\fgsfdsd-main\JUSTINE-main\07LaboratoryExercise1\07LaboratoryExercise1\obj\Debug\07LaboratoryExercise1.pdb
+D:\07LaboratoryExercise1\07LaboratoryExercise1\bin\Debug\ClubDB.mdf
+D:\07LaboratoryExercise1\07LaboratoryExercise1\bin\Debug\ClubDB_log.ldf
+D:\07LaboratoryExercise1\07LaboratoryExercise1\bin\Debug\07LaboratoryExercise1.exe.config
+D:\07LaboratoryExercise1\07LaboratoryExercise1\bin\Debug\07LaboratoryExercise1.exe
+D:\07LaboratoryExercise1\07LaboratoryExercise1\bin\Debug\07LaboratoryExercise1.pdb
+D:\07LaboratoryExercise1\07LaboratoryExercise1\obj\Debug\07LaboratoryExercise1.csproj.AssemblyReference.cache
+D:\07LaboratoryExercise1\07LaboratoryExercise1\obj\Debug\07LaboratoryExercise1.csproj.SuggestedBindingRedirects.cache
+D:\07LaboratoryExercise1\07LaboratoryExercise1\obj\Debug\_07LaboratoryExercise1.frmClubRegistration.resources
+D:\07LaboratoryExercise1\07LaboratoryExercise1\obj\Debug\_07LaboratoryExercise1.frmUpdateMember.resources
+D:\07LaboratoryExercise1\07LaboratoryExercise1\obj\Debug\_07LaboratoryExercise1.Properties.Resources.resources
+D:\07LaboratoryExercise1\07LaboratoryExercise1\obj\Debug\07LaboratoryExercise1.csproj.GenerateResource.cache
+D:\07LaboratoryExercise1\07LaboratoryExercise1\obj\Debug\07LaboratoryExercise1.csproj.CoreCompileInputs.cache
+D:\07LaboratoryExercise1\07LaboratoryExercise1\obj\Debug\07LaboratoryExercise1.exe
+D:\07LaboratoryExercise1\07LaboratoryExercise1\obj\Debug\07LaboratoryExercise1.pdb
